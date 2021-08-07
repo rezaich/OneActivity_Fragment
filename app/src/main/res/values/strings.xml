@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Flexible Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_home_fragment">ini Home Fragment</string>
+    <string name="to_category">Ke Kategori fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="this_category">ini Fragment category</string>
+    <string name="category_lifestyle">ke fragment lifestyle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_name">Nama Category</string>
+    <string name="category_description">Deskripsi Category</string>
+    <string name="to_profil">Ke profil</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="choose">PILIH</string>
+    <string name="close">CLOSE</string>
+    <string name="free_fire">FREE FIRE</string>
+    <string name="sosisman">SOSISMAN</string>
+    <string name="pubg">PUBG</string>
+    <string name="question">Apa game mu ?</string>
+</resources>

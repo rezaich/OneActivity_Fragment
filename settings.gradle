@@ -1,0 +1,2 @@
+rootProject.name = "Flexible Fragment"
+include ':app'
