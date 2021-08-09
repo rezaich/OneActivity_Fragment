@@ -1,5 +1,7 @@
 package com.zaich.flexiblefragment
 
+import android.app.Activity
+import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -30,6 +32,9 @@ class DetailCategoryFragment : Fragment() {
 
             val mFragmentManager = childFragmentManager
             mOptionDialogFragment.show(mFragmentManager,OptionDialogFragment::class.java.simpleName)
+        }
+        btn_profile.setOnClickListener {
+            startActivity(Intent(activity,ProfileActivity::class.java))
         }
     }
 
